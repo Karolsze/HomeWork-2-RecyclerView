@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">HMv3</string>
+    <string name="add_task">Add Contact</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_item">Name item</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="current_sound">Current sound:</string>
+    <string name="item_selected_msg">Item selected msg</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="phone_number_add">Phone number</string>
+    <string name="default_name">Default name</string>
+    <string name="default_surname">Default surname</string>
+    <string name="default_birthday">Default birthday</string>
+    <string name="defautl_phone">defautl phone</string>
+    <string name="defautl_1">Default 1</string>
+    <string name="default_2">Default 2</string>
+    <string name="delete_item">Delete Contact</string>
+    <string name="dialog_confirm">Contact confirm</string>
+    <string name="dialog_cancel">Contact canceled</string>
+    <string name="long_click_msg">Click msg</string>
+    <string name="retry_msg">Retry</string>
+    <string name="delete_cancel_msg">Delete cancel</string>
+    <string name="birthday_invalide">Birthday invalide</string>
+    <string name="item_selected_sound">Selected sound</string>
+
+    <string-array name="Sound">
+        <item>Sound 1</item>
+        <item>Sound 2</item>
+        <item>Sound 3</item>
+        <item>Sound 4</item>
+        <item>Sound 5</item>
+    </string-array>
+
+    <string name="Sounds">Sounds</string>
+    <string name="Sound1">Sound1</string>
+    <string name="Sound2">Sound2</string>
+    <string name="Sound3">Sound3</string>
+    <string name="Sound4">Sound4</string>
+
+    <string-array name="images">
+        <item>drawable 1</item>
+        <item>drawable 2</item>
+        <item>drawable 3</item>
+        <item>drawable 4</item>
+        <item>drawable 5</item>
+        <item>drawable 6</item>
+        <item>drawable 7</item>
+        <item>drawable 8</item>
+        <item>drawable 9</item>
+        <item>drawable 10</item>
+        <item>drawable 11</item>
+        <item>drawable 12</item>
+        <item>drawable 13</item>
+        <item>drawable 14</item>
+        <item>drawable 15</item>
+        <item>drawable 16</item>
+
+    </string-array>
+
+</resources>
